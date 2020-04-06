@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 250 240" style="enable-background:new 0 0 250 240;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#1C1721;}
+	.st1{fill:#6666FF;}
+</style>
+<g>
+	<path class="st0" d="M94,170h18v4h-7v16h-4v-16h-7V170z"/>
+	<path class="st0" d="M182,170h18v3l-12,13h12v4h-18v-3l12-13h-12V170z"/>
+	<polygon class="st0" points="62,170 58,170 50,190 54,190 55.6,186 55.6,186 60,175 64.4,186 64.4,186 66,190 70,190 	"/>
+	<path class="st0" d="M147,170c-5.52,0-10,4.48-10,10c0,5.52,4.48,10,10,10s10-4.48,10-10C157,174.48,152.52,170,147,170z M147,186
+		c-3.31,0-6-2.69-6-6s2.69-6,6-6s6,2.69,6,6S150.31,186,147,186z"/>
+</g>
+<g>
+	<polygon class="st1" points="71,128 100,75 111.09,95.03 121.44,88.59 100,50 50,140 111,140 104,128 	"/>
+	<polygon class="st1" points="193,128 151,128 195,50 124,50 131,62 174,62 140,122 127.28,99.1 116.91,105.54 136,140 200,140 	"/>
+</g>
+</svg>
